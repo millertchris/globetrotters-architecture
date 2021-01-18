@@ -1,0 +1,15 @@
+User-agent: *
+Disallow: /wp-content/plugins/
+Disallow: /wp-content/upgrade/
+Disallow: /wp-icludes/
+Disallow: /trackback/
+Disallow: /wp-admin/
+Disallow: /wp-
+Disallow: /.inc$
+Disallow: /*.php$
+Disallow: /?s=
+
+User-agent: All
+Allow: /
+
+Sitemap: http://www.gec-group.com/sitemap_index.xml
